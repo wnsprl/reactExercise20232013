@@ -1,3 +1,3 @@
 # react Execise 01
 
-react 코드 연습
+react 개인적인 코드연습
